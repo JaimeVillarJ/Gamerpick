@@ -2,7 +2,7 @@ import React from "react";
 import productsData from "../products.json"; // O la ruta donde guardes tu JSON
 
 // ---------- Config ----------
-const INSTAGRAM_USERNAME = "tu_usuario_de_instagram"; // sin la @
+//const INSTAGRAM_USERNAME = "tu_usuario_de_instagram"; // sin la @
 
 interface Product {
   id: string;
