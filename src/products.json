@@ -1,0 +1,222 @@
+[
+  {
+    "id": "p1",
+    "slot": "SLOT 01",
+    "name": "Batería Control",
+    "description": "Batería recargable para mando o control de consola.",
+    "price": 35000,
+    "tags": ["🔋 Recargable"],
+    "imageUrl": "/bateria control.jpeg",
+    "inStock": true
+  },
+  {
+    "id": "p2",
+    "slot": "SLOT 02",
+    "name": "Cargador 1",
+    "description": "Cargador de pared de carga rápida USB.",
+    "price": 28000,
+    "tags": ["⚡ Carga Rápida"],
+    "imageUrl": "/cargador 1.jpeg",
+    "inStock": true
+  },
+  {
+    "id": "p3",
+    "slot": "SLOT 03",
+    "name": "Cargador 2",
+    "description": "Adaptador de carga múltiple.",
+    "price": 30000,
+    "tags": ["🔌 Multi-puerto"],
+    "imageUrl": "/cargador 2.jpeg",
+    "inStock": true
+  },
+  {
+    "id": "p4",
+    "slot": "SLOT 04",
+    "name": "Cargador 3",
+    "description": "Cargador rápido tipo C de alta velocidad.",
+    "price": 32000,
+    "tags": ["⚡ Carga Rápida"],
+    "imageUrl": "/cargador 3.jpeg",
+    "inStock": true
+  },
+  {
+    "id": "p5",
+    "slot": "SLOT 05",
+    "name": "Cargador 4",
+    "description": "Cargador inteligente con protección contra sobrecargas.",
+    "price": 35000,
+    "tags": ["🛡️ Protección"],
+    "imageUrl": "/cargador 4.jpeg",
+    "inStock": true
+  },
+  {
+    "id": "p6",
+    "slot": "SLOT 06",
+    "name": "Cargadr 3",
+    "description": "Cargador compacto para viaje.",
+    "price": 29000,
+    "tags": ["✈️ Portátil"],
+    "imageUrl": "/cargadr 3.jpeg",
+    "inStock": true
+  },
+  {
+    "id": "p7",
+    "slot": "SLOT 07",
+    "name": "Cinta Led",
+    "description": "Tira LED RGB para ambientar tu escritorio o habitación.",
+    "price": 45000,
+    "tags": ["🌈 RGB"],
+    "imageUrl": "/cinta led.jpeg",
+    "inStock": true
+  },
+  {
+    "id": "p8",
+    "slot": "SLOT 08",
+    "name": "Control 2",
+    "description": "Mando inalámbrico gamer multifunción.",
+    "price": 89000,
+    "tags": ["🎮 Inalámbrico"],
+    "imageUrl": "/control 2.jpeg",
+    "inStock": true
+  },
+  {
+    "id": "p9",
+    "slot": "SLOT 09",
+    "name": "Control Led",
+    "description": "Mando a distancia para configuración de iluminación LED.",
+    "price": 18000,
+    "tags": ["🎛️ Control Remoto"],
+    "imageUrl": "/Control led.jpeg",
+    "inStock": true
+  },
+  {
+    "id": "p10",
+    "slot": "SLOT 10",
+    "name": "Cortina Led",
+    "description": "Cortina de luces decorativas con efectos luminosos.",
+    "price": 50000,
+    "tags": ["✨ Decoración"],
+    "imageUrl": "/cortina led.jpeg",
+    "inStock": true
+  },
+  {
+    "id": "p11",
+    "slot": "SLOT 11",
+    "name": "Luces Led",
+    "description": "Set de iluminación LED ambiental para setup.",
+    "price": 42000,
+    "tags": ["💡 Iluminación"],
+    "imageUrl": "/Luces Led.jpeg",
+    "inStock": true
+  },
+  {
+    "id": "p12",
+    "slot": "SLOT 12",
+    "name": "Mouse 1",
+    "description": "Mouse óptico básico para trabajo y juegos.",
+    "price": 25000,
+    "tags": ["🖱️ Ergonomía"],
+    "imageUrl": "/mouse 1.jpeg",
+    "inStock": true
+  },
+  {
+    "id": "p13",
+    "slot": "SLOT 13",
+    "name": "Mouse 2",
+    "description": "Mouse gamer con sensibilidad ajustable y Luces LED.",
+    "price": 38000,
+    "tags": ["🎯 DPI Ajustable"],
+    "imageUrl": "/mouse 2.jpeg",
+    "inStock": true
+  },
+  {
+    "id": "p14",
+    "slot": "SLOT 14",
+    "name": "Mouse 3",
+    "description": "Mouse ergonómico para uso continuo sin fatiga.",
+    "price": 45000,
+    "tags": ["⚡ Agarre Cómodo"],
+    "imageUrl": "/mouse 3.jpeg",
+    "inStock": true
+  },
+  {
+    "id": "p15",
+    "slot": "SLOT 15",
+    "name": "Mouse 4",
+    "description": "Mouse gamer de alta precisión con botones laterales.",
+    "price": 55000,
+    "tags": ["🔥 Pro Gaming"],
+    "imageUrl": "/mouse 4.jpeg",
+    "inStock": true
+  },
+  {
+    "id": "p16",
+    "slot": "SLOT 16",
+    "name": "Tapete",
+    "description": "Mousepad antideslizante con textura suave.",
+    "price": 20000,
+    "tags": ["🖱️ Antideslizante"],
+    "imageUrl": "/tapete .jpeg",
+    "inStock": true
+  },
+  {
+    "id": "p17",
+    "slot": "SLOT 17",
+    "name": "Tapete 1",
+    "description": "Mousepad tamaño estándar con bordes reforzados.",
+    "price": 25000,
+    "tags": ["🛡️ Bordes Cosidos"],
+    "imageUrl": "/tapete 1.jpeg",
+    "inStock": true
+  },
+  {
+    "id": "p18",
+    "slot": "SLOT 18",
+    "name": "Tapete 2",
+    "description": "Mousepad XL para teclado y mouse.",
+    "price": 35000,
+    "tags": ["📏 Tamaño XL"],
+    "imageUrl": "/tapete 2.jpeg",
+    "inStock": true
+  },
+  {
+    "id": "p19",
+    "slot": "SLOT 19",
+    "name": "Tapete 3",
+    "description": "Mousepad amplio con superficie de microfibra.",
+    "price": 38000,
+    "tags": ["⚡ Microfibra"],
+    "imageUrl": "/tapete 3.jpeg",
+    "inStock": true
+  },
+  {
+    "id": "p20",
+    "slot": "SLOT 20",
+    "name": "Tapete 4",
+    "description": "Mousepad Gaming con bordes de luz LED RGB.",
+    "price": 54900,
+    "tags": ["🌈 RGB Ambient"],
+    "imageUrl": "/tapete 4.jpeg",
+    "inStock": true
+  },
+  {
+    "id": "p21",
+    "slot": "SLOT 21",
+    "name": "Vocina 2",
+    "description": "Parlante/Bocina portátil con conexión Bluetooth.",
+    "price": 60000,
+    "tags": ["🔊 Bluetooth 5.0"],
+    "imageUrl": "/vocina 2.jpeg",
+    "inStock": true
+  },
+  {
+    "id": "p22",
+    "slot": "SLOT 22",
+    "name": "Vocina",
+    "description": "Bocina compacta de sonido nítido y batería duradera.",
+    "price": 45000,
+    "tags": ["🎵 Sonido HD"],
+    "imageUrl": "/vocina.jpeg",
+    "inStock": true
+  }
+]
